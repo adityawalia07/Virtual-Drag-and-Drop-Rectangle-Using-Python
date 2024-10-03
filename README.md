@@ -69,8 +69,6 @@ It allows users to interact with virtual rectangles on screen using their hand m
 
 # OUTPUT 
 
-https://github.com/user-attachments/assets/4deb816d-38bb-46aa-b90d-a9dcb4eeebaf <br>
-
 ## Starting Window
 ![1) Starting Window](https://github.com/user-attachments/assets/5f446907-c460-461a-92d7-408f1ca12f31) <br>
 
@@ -79,6 +77,8 @@ https://github.com/user-attachments/assets/4deb816d-38bb-46aa-b90d-a9dcb4eeebaf 
 
 # Repositioned Blocks
 ![3) Repositioned Blocks](https://github.com/user-attachments/assets/d1ca5cc7-7b62-43f4-82ac-d0a25d114a0b)<br>
+
+https://github.com/user-attachments/assets/4deb816d-38bb-46aa-b90d-a9dcb4eeebaf
 
 
 

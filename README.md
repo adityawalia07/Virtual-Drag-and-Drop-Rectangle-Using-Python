@@ -66,11 +66,13 @@ It allows users to interact with virtual rectangles on screen using their hand m
   -Add gesture recognition for more interactions (e.g., rotate, scale)<br>
   -Improve performance for smoother interaction
 
-# STARTING WINDOW
-![1) Starting Window](https://github.com/user-attachments/assets/5f446907-c460-461a-92d7-408f1ca12f31)
 
-# FINGER TRACKING
-![2) Fingers Tracking](https://github.com/user-attachments/assets/9012be68-8209-4cf6-b329-6b032776956e)
+# OUTPUT IMANGES
+## Starting Window
+![1) Starting Window](https://github.com/user-attachments/assets/5f446907-c460-461a-92d7-408f1ca12f31) <br>
 
-# REPOSITIONED BLOCKS
-![3) Repositioned Blocks](https://github.com/user-attachments/assets/d1ca5cc7-7b62-43f4-82ac-d0a25d114a0b)
+# Finger Tracking
+![2) Fingers Tracking](https://github.com/user-attachments/assets/9012be68-8209-4cf6-b329-6b032776956e) <br>
+
+# Repositioned Blocks
+![3) Repositioned Blocks](https://github.com/user-attachments/assets/d1ca5cc7-7b62-43f4-82ac-d0a25d114a0b)<br>
